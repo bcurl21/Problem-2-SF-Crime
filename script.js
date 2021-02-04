@@ -28,4 +28,3 @@ var blackIcon = new L.Icon({
     }
    }).addTo(map);
   });
-
